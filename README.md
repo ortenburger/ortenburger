@@ -1,6 +1,6 @@
 # Alexander Ortenburger
 
-CTO / Co-Founder building production AI infrastructure. Currently at [DEEPWERK](https://deepwerk.de) (Münster) designing serverless GenAI pipelines for automated video generation at scale.
+CTO / Co-Founder building production AI infrastructure. Currently at [DEEPWERK](https://deepwerk.io) and [ADWERK](https://adwerk.ai) (Münster) designing serverless GenAI pipelines for automated video generation at scale.
 
 ## What I work on
 
