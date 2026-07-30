@@ -4,10 +4,10 @@ CTO / Co-Founder building production AI infrastructure. Currently at [DEEPWERK](
 
 ## What I work on
 
-- **GenAI workloads** — serverless architectures for on-demand ML inference and media generation
-- **Cloud infrastructure** — Kubernetes, Terraform, AWS/GCP/Azure; reduced cloud costs 25% at cashbuzz by rearchitecting microservice topology
-- **ML systems** — training pipelines, inference optimization, TensorFlow / PyTorch in production
-- **Fintech platforms** — led end-to-end engineering at cashbuzz GmbH (Berlin) across mobile, web, and DevOps
+- **GenAI workloads**: serverless architectures for on-demand ML inference and media generation
+- **Cloud infrastructure**: Kubernetes, Terraform, AWS/GCP/Azure; reduced cloud costs 25% at cashbuzz by rearchitecting microservice topology
+- **ML systems**: training pipelines, inference optimization, TensorFlow / PyTorch in production
+- **Fintech platforms**: led end-to-end engineering at cashbuzz GmbH (Berlin) across mobile, web, and DevOps
 
 ## Stack
 
